@@ -1,0 +1,11 @@
+C:\Users\YP\source\repos\ObserverDemo\ObserverDemo\bin\Debug\netcoreapp3.1\ObserverDemo.exe
+C:\Users\YP\source\repos\ObserverDemo\ObserverDemo\bin\Debug\netcoreapp3.1\ObserverDemo.deps.json
+C:\Users\YP\source\repos\ObserverDemo\ObserverDemo\bin\Debug\netcoreapp3.1\ObserverDemo.runtimeconfig.json
+C:\Users\YP\source\repos\ObserverDemo\ObserverDemo\bin\Debug\netcoreapp3.1\ObserverDemo.runtimeconfig.dev.json
+C:\Users\YP\source\repos\ObserverDemo\ObserverDemo\bin\Debug\netcoreapp3.1\ObserverDemo.dll
+C:\Users\YP\source\repos\ObserverDemo\ObserverDemo\bin\Debug\netcoreapp3.1\ObserverDemo.pdb
+C:\Users\YP\source\repos\ObserverDemo\ObserverDemo\obj\Debug\netcoreapp3.1\ObserverDemo.csprojAssemblyReference.cache
+C:\Users\YP\source\repos\ObserverDemo\ObserverDemo\obj\Debug\netcoreapp3.1\ObserverDemo.AssemblyInfoInputs.cache
+C:\Users\YP\source\repos\ObserverDemo\ObserverDemo\obj\Debug\netcoreapp3.1\ObserverDemo.AssemblyInfo.cs
+C:\Users\YP\source\repos\ObserverDemo\ObserverDemo\obj\Debug\netcoreapp3.1\ObserverDemo.dll
+C:\Users\YP\source\repos\ObserverDemo\ObserverDemo\obj\Debug\netcoreapp3.1\ObserverDemo.pdb
